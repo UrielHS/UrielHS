@@ -1,7 +1,7 @@
 # Hi there, I'm Uriel Hernández 👋
 
 <p align="left">
-  <strong>Full-Stack Developer & Product Builder</strong> based in Durango, Mexico 🇲🇽<br/>
+  <strong>Product Builder & Full-Stack Developer</strong> based in Durango, Mexico 🇲🇽<br/>
   Specialized in building full-stack platforms, scalable business tools, and mobile applications using modern stacks.
 </p>
 
