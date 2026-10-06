@@ -30,3 +30,25 @@ Backend & APIs   : Node.js, Express, REST APIs, Supabase (Auth, RLS, Storage)
 Databases        : PostgreSQL, Supabase
 DevOps & Cloud   : Vercel, Git, GitHub Actions, Postman
 Tooling & Specs  : Notion, Figma, Agile / Requirements Architecture
+
+
+---
+
+### 📌 Featured Projects
+
+#### 🏢 [RentApp - Property Rental Management Platform](https://github.com/rentapp-org/rentapp-web)
+> SaaS platform designed to streamline rental operations, tenant records, and payment tracking.
+- **Stack:** React, Node.js, Express, PostgreSQL / Supabase, Tailwind CSS.
+- **Key Features:** Automated invoicing logic, dynamic contract preview with WYSIWYG & PDF rendering, and role-based access.
+
+#### 🏋️️ [Workout Tracker Web App](https://github.com/UrielHS/TrackGym-App)
+> Personal training platform focused on hypertrophy progression tracking and performance analytics.
+- **Stack:** React, Supabase Auth, PostgreSQL, Tailwind CSS.
+- **Key Features:** Row-Level Security (RLS), previous-session ghost loading, and workout logging.
+
+#### 🎫 [EventOps - Event Operations & Management System](https://github.com/chrislfmd/event-ops)
+> Operational platform engineered to streamline logistics, scheduling, and live coordination for events and productions.
+- **Stack:** React, Node.js, Express, REST APIs, Modern CSS.
+- **Key Features:** Real-time event coordination, agenda & roster management, and operational workflows for organizers.
+
+---
